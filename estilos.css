@@ -1,14 +1,8 @@
-p{
-
-font-size: 20px;
-
-}
-
 footer{
 
-color: purple;
-
-background-position: center;
+color: beige;
+text-align: center;
+background-color: coral;
 
 }
 
@@ -16,10 +10,10 @@ background-position: center;
 
     font-size: 22px;
     color: coral;
-    font-weight: bold;
-    text-align: center;
+   font-family: 'Roboto Mono', monospace;
+text-align: justify;
 }
 h1{
- color: salmon;
+ color: rgb(180, 41, 118);
 
 }

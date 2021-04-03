@@ -1,0 +1,20 @@
+h1{
+    font-weight: bold;
+    color: magenta;
+}
+h2{
+    font-weight: bold;
+   
+}
+.dequesetrata{
+    text-align: justify;
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(34, 2, 99);
+}
+.linea2{
+    text-align: justify;
+    font-style: italic;
+    font-size: 20px;
+    color: navy;
+}
